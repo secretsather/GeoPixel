@@ -29,9 +29,15 @@ $ Include usage code within sketch
 ## Usage
 
 ```
-$ Placeholder
-$ Placeholder
-$ Placeholder
+#include <GeoPixel.h>
+
+GeoPixel<64, 16> panel;  // <X,Y>
+
+void setup(){
+}
+
+void loop(){
+}
 ```
 
 ## Additional Thoughts
