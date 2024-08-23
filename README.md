@@ -28,7 +28,7 @@ $ Include usage code within sketch
 
 ## Usage
 
-```
+```C++
 #include <GeoPixel.h>
 
 GeoPixel<64, 16> panel;  // <X,Y>
