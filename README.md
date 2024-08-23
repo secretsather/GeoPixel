@@ -10,7 +10,7 @@ Special thanks to [Hideakitai](https://github.com/hideakitai) for creating [ESP3
 
 (to be populated at a later date) This is a no-frills, bare bones implementation to use SPI for communication with WS2812 LED strips or panels. 
 
-### Prerequisites
+## Prerequisites
 
 The things you need before installing
 
@@ -18,7 +18,7 @@ The things you need before installing
 * Tested on ESP32S2 "S2 Mini;" however, this appears to be compatible with all ESP32 variants S2, S3, C3. 
 * WS2812 Panel or Strip
 
-### Installation
+## Installation
 
 ```
 $ In Arduino IDE, Select 'Sketch >> Include Library >> Add .ZIP Library...'
